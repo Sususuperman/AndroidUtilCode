@@ -11,10 +11,7 @@
 
 ## Documentation
 
-### utilcode
 
-* [README of English][utilcode]
-* [README of Chinese][utilcode-cn]
 
 
 ### subutil
