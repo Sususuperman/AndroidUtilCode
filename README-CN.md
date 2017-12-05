@@ -1,4 +1,4 @@
-![logo][logo]
+﻿![logo][logo]
 
 [![auc][aucsvg]][auc] [![api][apisvg]][api] [![build][buildsvg]][build] [![Insight][insightsvg]][insight] [![License][licensesvg]][license]
 
@@ -27,12 +27,12 @@
 
 如果它对你帮助很大，并且你很想支持库的后续开发和维护，那么你可以扫下方二维码随意打赏我，就当是请我喝杯咖啡或是啤酒，我将不胜感激 :-)
 
-![donate][donate]
+![Alt text](http://ww1.sinaimg.cn/thumbnail/005EoTQjly1fm60owhljaj30u0155760.jpg )       ![Alt text](http://ww1.sinaimg.cn/thumbnail/005EoTQjly1fm60qyvva1j30u019idhl.jpg )
 
 
-## Contact
 
-[![Blog][blogsvg]][blog] [![jianshu][jianshusvg]][jianshu] [![weibo][weibosvg]][weibo] [![QQ0Group][qq0groupsvg]][qq0group] [![QQ1Group][qq1groupsvg]][qq1group]
+
+
 
 
 ## [Update Log][update_log.md]
