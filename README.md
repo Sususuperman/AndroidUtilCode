@@ -31,9 +31,7 @@ If this ptoject helps you a lot, and you would like to support this ptoject's fu
 
 
 
-## Contact
 
-[![Blog][blogsvg]][blog] [![jianshu][jianshusvg]][jianshu] [![weibo][weibosvg]][weibo] [![QQ0Group][qq0groupsvg]][qq0group] [![QQ1Group][qq1groupsvg]][qq1group]
 
 
 ## [Update Log][update_log.md]
